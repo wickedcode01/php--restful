@@ -2,7 +2,7 @@
   function connect_db() {  
     $server = 'localhost'; // this may be an ip address instead  
     $user = 'root';  
-    $pass = '134679852a';  
+    $pass = '********';  
     $database = 'web'; // name of your database  
     $connection = new mysqli($server, $user, $pass, $database);  
   
